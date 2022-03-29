@@ -7,4 +7,4 @@ function showVerticalMessage( word ) {
 
 };
 
-showVerticalMessage('марафон')
+showVerticalMessage('porsche')
